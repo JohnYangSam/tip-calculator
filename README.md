@@ -16,3 +16,7 @@ Completed user stories:
 - Basic settings
 
 Walkthrough of user stories:
+
+![Video Walkthrough](JYSTipCalculatorDemo.gif)
+
+GIF created with [LiceCap](http://www.cockos.com/licecap/).
